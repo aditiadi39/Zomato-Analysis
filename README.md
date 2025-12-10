@@ -16,13 +16,13 @@ This project covers data cleaning, transformation, KPI generation, and multi-pag
    ├── /dataset
    |      ├── Country-Code.xlsx
    │      └── Zomata (1).xlsx
-   ├── /dashboardImages
-   │      ├── Excel_Dashboard.png
-   │      ├── PowerBI_Dashboard_01.png
-   │      ├── PowerBI_Dashboard_01_AdvancedTooltip.png
-   │      ├── PowerBI_Dashboard_02.png
-   │      ├── PowerBI_Dashboard_03.png
-   │      └── Tableau_Dashboard.png
+   └── /dashboardImages
+          ├── Excel_Dashboard.png
+          ├── PowerBI_Dashboard_01.png
+          ├── PowerBI_Dashboard_01_AdvancedTooltip.png
+          ├── PowerBI_Dashboard_02.png
+          ├── PowerBI_Dashboard_03.png
+          └── Tableau_Dashboard.png
 ```
 
 ---
