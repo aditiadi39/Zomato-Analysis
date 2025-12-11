@@ -65,18 +65,15 @@ This project covers data cleaning, transformation, KPI generation, and multi-pag
 # 📊 Power BI Dashboard (3 Pages + Tooltip)
 
 ## **📌 1. Home Page — Zomato Analysis Dashboard**
-### **KPIs**
+### **🔹 KPIs**
 - Restaurants  
 - Countries  
 - Cities  
 - Cuisines  
 - Online Delivery %  
-- Table Booking %  
+- Table Booking %
 
-### **Slicers**
-- Month, Year, Country  
-
-### **Charts**
+### **🔹 Visualizations**
 - **Top 5 Cities (Bar Chart):** Count of RestaurantID  
 - **Map:** Restaurants by Country  
 - **Donut Chart:** Restaurants by Rating Category  
@@ -85,52 +82,53 @@ This project covers data cleaning, transformation, KPI generation, and multi-pag
   - Quarterly Opening Trend  
   - Monthly Opening Trend  
 
+### **🔹 Slicers**
+- Month, Year, Country  
 ---
 
 ## **📌 2. Pricing Page — Zomato Pricing Analysis**
-### **KPIs**
+### **🔹 KPIs**
 - Average Cost  
 - Maximum Cost  
 - Minimum Cost  
-- Average Rating  
+- Average Rating
 
-### **Slicers**
-- Month, Year, Country, City, Rating Category  
-
-### **Charts**
+### **🔹 Visualizations**
 - **Line + Column Combo:** Avg Rating vs Avg Cost by Price Bucket  
 - **Pie Chart:** Top 5 Cuisines by Avg Cost For Two  
 - **Clustered Bar Chart:** Average Cost by Country  
 - **Area Chart:** Avg Cost Across Rating Categories  
 
+### **🔹 Slicers**
+- Month, Year, Country, City, Rating Category  
 ---
 
 ## **📌 3. Delivery Page — Zomato Delivery Analysis**
-### **KPIs**
+### **🔹 KPIs**
 - Online Delivery %  
 - Rating 4+ Count  
 - Top City  
 - Top Cuisine  
 
-### **Slicers**
-- Month, Year, Country, City  
-- Filter: *Has Online Delivery = Yes*  
-
-### **Charts**
+### **🔹 Visualizations**
 - **Stacked Column Chart:** Delivery availability (Top 5 Cities)  
 - **Pie Chart:** Rating Categories of delivery restaurants  
-- **Ribbon Chart:** Monthly city ranking for online delivery  
+- **Ribbon Chart:** Monthly city ranking for online delivery
+
+### **🔹 Slicers**
+- Month, Year, Country, City  
+- Filter: *Has Online Delivery = Yes*  
 
 ---
 
 ## **📌 4. Tooltip Page — Advanced Tooltip (Drill & Hover Insights)**  
-### **KPIs**
+### **🔹 KPIs**
 - Restaurants  
 - Cuisines  
 - Avg Ratings  
 - Votes  
 
-### **Charts**
+### **🔹 Visualizations**
 - **Clustered Bar Chart:** Restaurants by Top 5 Cuisines  
 - **Donut Chart:** Online Delivery Availability  
 - **Donut Chart:** Table Booking Availability  
@@ -147,13 +145,13 @@ This project covers data cleaning, transformation, KPI generation, and multi-pag
 - Total Cuisines  
 - Average Ratings  
 
-### **🔹 Charts**
-- **Map:** Restaurants Count by Country  
+### **🔹 Visualizations**
+- **Map Chart:** Restaurants Count by Country  
 - **Bar Chart:** Top 10 Cities by Restaurant Count  
 - **Table:** Top 10 Cuisines  
 - **Donut Chart:** % of Online Delivery Restaurants  
 - **Pie Chart:** % of Table Booking Restaurants  
-- **TreeMap:** Restaurants by Rating Category  
+- **TreeMap Chart:** Restaurants by Rating Category  
 - **Line Chart:** Restaurants Count by Month  
 - **Bubble Chart:** Restaurants by Price Bucket  
 
